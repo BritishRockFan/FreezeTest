@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FreezeTest</string>
+    <string name="data_loaded">Data loaded. App is ready to use.</string>
+</resources>
